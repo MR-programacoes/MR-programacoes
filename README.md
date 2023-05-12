@@ -1,16 +1,17 @@
-### Hi there 👋
+### Esse é o meu perfil 💙🤍
 
-<!--
-**MR-programacoes/MR-programacoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Matheus José Rosa!
+- Mas por que MR?
+O nome MR é da sigla do meu nome Matheus Rosa;
 
-Here are some ideas to get you started:
+- Estou aprendendo a programar , tanto em js, quanto em html/css;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo ✉️
+
+ joserosamatheus3@gmail.com
+ 
+ ![](https://media.tenor.com/dr3YOOOszlAAAAAM/rat-dance.gif)
+
+ 
+ 
+
